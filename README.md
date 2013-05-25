@@ -1,4 +1,4 @@
-oh-my-zsh.plugin.sf2
+sf2.plugin.zsh
 ====================
 
 ZSH plugin for Symfomy2.
